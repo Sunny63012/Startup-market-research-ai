@@ -1,4 +1,56 @@
-# MarketResearchCrew Crew
+# AI Startup Market Research Platform
+
+## Overview
+
+An autonomous AI system built using CrewAI that validates startup ideas by performing:
+
+• Market Research
+• Competitor Analysis
+• Customer Insights
+• Product Strategy
+• Business Analysis
+
+## Features
+
+- Multi-Agent Workflow
+- Real-time Web Search
+- Website Scraping
+- Report Generation
+- Evaluation Metrics
+- Benchmark Framework
+
+## Tech Stack
+
+- Python
+- CrewAI
+- OpenRouter
+- GPT-OSS-120B
+- Serper API
+- Selenium
+- Markdown
+
+## Workflow
+
+User Idea
+    ↓
+Market Research
+    ↓
+Competitor Analysis
+    ↓
+Customer Insights
+    ↓
+Product Strategy
+    ↓
+Business Analysis
+    ↓
+Final Report
+
+## Future Work
+
+- Single Agent Version
+- Single Agent + Skills
+- MAS Benchmark
+
 
 Welcome to the MarketResearchCrew Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
